@@ -3,6 +3,7 @@
     <Header />
     <Hero />
     <Features />
+    <Download />
   </div>
 </template>
 
