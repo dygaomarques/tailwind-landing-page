@@ -1,5 +1,5 @@
 <template>
-  <div class="font-Poppins">
+  <div class="font-Poppins tracking-wider">
     <Nuxt />
   </div>
 </template>
