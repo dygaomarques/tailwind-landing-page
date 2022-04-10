@@ -4,6 +4,7 @@
     <Hero />
     <Features />
     <Download />
+    <Faq />
   </div>
 </template>
 
