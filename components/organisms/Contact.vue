@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-bookmark-purple text-white my-14 lg:my-28">
+  <section class="bg-bookmark-purple text-white mt-14 lg:mt-28">
     <div class="container py-20">
       <div class="sm:w-3/4 lg:w-2/4 mx-auto">
         <p class="font-light uppercase text-center mb-8">35,000+ ALREADY JOINED</p>
