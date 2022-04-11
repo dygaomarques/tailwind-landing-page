@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'instagram-downloader',
+    title: 'Tailwind Landing Page',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -61,4 +61,12 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+  
+  // Router Configuration: https://nuxtjs.org/docs/configuration-glossary/configuration-router
+  router: {
+    base: '/tailwind/',
+  },
+
+  // Target Configuration: https://nuxtjs.org/docs/configuration-glossary/configuration-target
+  target: 'static',
 }
