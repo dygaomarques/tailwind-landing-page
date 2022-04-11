@@ -6,6 +6,7 @@
     <Download />
     <Faq />
     <Contact />
+    <Footer />
   </div>
 </template>
 
