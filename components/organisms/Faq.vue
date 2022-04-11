@@ -1,6 +1,6 @@
 <template>
   <section class="relative overflow-hidden">
-    <div class="container flex flex-col lg:flex-row items-center gap-12 my-14 lg:my-28">
+    <div class="container flex flex-col items-center gap-12 my-14 lg:my-28">
       <header class="sm:w-3/4 lg:w-5/12 mx-auto mb-16">
         <h2 class="text-3xl text-center text-bookmark-blue">
           Frequently Asked Questions
