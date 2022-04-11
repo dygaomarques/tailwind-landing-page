@@ -5,6 +5,7 @@
     <Features />
     <Download />
     <Faq />
+    <Contact />
   </div>
 </template>
 
